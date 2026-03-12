@@ -8,8 +8,8 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, Python, (add more)
-- **Frameworks / Libraries:** Next.js, Vue.js, fastapi, (add more)
-- **Tools:** Git, GitHub, VS Code, Docker (add more)
+- **Frameworks / Libraries:** Next.js, Vue.js, react-native, fastapi, (add more)
+- **Tools:** Git, GitHub,Docker (add more)
 - **Databases:** MongoDB, PostgreSQL.
 
 ➡️ Check out my repositories for more!
